@@ -1,0 +1,20 @@
+.login{
+    display: flex;
+    place-items: center;
+    background-color: white;
+    justify-content: center;
+    width: 100%;
+}
+.login_container{
+    /* padding: 50px; */
+    text-align: center;
+    place-content: center;
+}
+.login_text{
+    /* padding: 15px; */
+}
+.login_container > button{
+ margin-top: 20px;
+ background-color: rgb(21, 18, 182);
+ color: white;
+}
